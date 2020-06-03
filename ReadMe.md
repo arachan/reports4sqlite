@@ -39,7 +39,7 @@ You need to install ActiveReports .Net Designer and SQLite3 OCBC Driver for 32bi
         - Query : "select * from Users"
 - ReadMe.md
     - This File
-- [ReadMeJ.md](ReadMeJ.md)
+- [ReadMEJ.md](ReadMEJ.md)
     - Japanese ReadMe.
 
 
