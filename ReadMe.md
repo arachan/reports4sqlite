@@ -15,7 +15,7 @@ I have tried.
 
 Success !!
 
-.Net may convert true DateTime to read DateTime Type coloumns on SQLite.
+.Net may convert true DateTime SQLite DateTime Type coloumns.
 
 ## Emvironment
 
