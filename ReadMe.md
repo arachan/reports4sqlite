@@ -9,7 +9,7 @@ But,I found DateTime in Sample Database on SQLite.
 
 Do ActiveReports use Date Formatting DateTime Column on SQLite DataSource ?
 
-I make table in DateTime Type Columns on SQLite.
+I make DateTime Type Columns in table on SQLite.
 
 I have tried.
 
